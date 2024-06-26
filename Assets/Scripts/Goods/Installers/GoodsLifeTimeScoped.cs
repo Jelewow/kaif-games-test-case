@@ -1,4 +1,3 @@
-using Goods.ScriptableObjects;
 using Goods.Services;
 using Goods.Views;
 using UnityEngine;

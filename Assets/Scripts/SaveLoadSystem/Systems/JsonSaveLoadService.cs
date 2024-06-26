@@ -12,7 +12,6 @@ namespace SaveLoadSystem.Systems
 
         public void Save(GameData gameData)
         {
-            
             var json = JsonConvert.SerializeObject(gameData);
 
             using var writer = new StreamWriter(_filePath);

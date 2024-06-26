@@ -168,7 +168,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   parentReference:
-    TypeName: Goods.Installers.GoodsLifeTimeScoped
+    TypeName: MainFrame.Installers.MainFrameLifeTimeScope
   autoRun: 1
   autoInjectGameObjects: []
   _numberSettings: {fileID: 11400000, guid: b0544d17607c9489fa209399dee27af4, type: 2}
@@ -794,7 +794,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   parentReference:
-    TypeName: 
+    TypeName: Core.MainLifeTimeScope
   autoRun: 1
   autoInjectGameObjects: []
   _mainFrame: {fileID: 140232107}
@@ -2000,7 +2000,6 @@ MonoBehaviour:
   autoInjectGameObjects: []
   _progressBar: {fileID: 1270766188}
   _goodsDatabase: {fileID: 11400000, guid: 5ab32474f7094444ebb503ef6481b58f, type: 2}
-  _playerSettings: {fileID: 11400000, guid: 50103156af9864bb9829661fad235020, type: 2}
   _playerInfo: {fileID: 121884970}
 --- !u!1 &869725443
 GameObject:
